@@ -7,11 +7,12 @@ layout: default
 
 <p> Source: [https://www.statista.com/statistics/278341/number-of-social-network-users-in-selected-countries/] </p>
 
+<h1> Global impact of social media on daily life 2019 </h1>
 <a href="https://www.statista.com/statistics/1015131/impact-of-social-media-on-daily-life-worldwide/" rel="nofollow"><img src="https://www.statista.com/graphic/1/1015131/impact-of-social-media-on-daily-life-worldwide.jpg" alt="Statistic: Share of internet users worldwide who believe that social media platforms have had an impact on selected aspects of daily life as of February 2019 | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
 <p> Source: [2019 CIGI-Ipsos Global Survey on Internet Security and Trust - Part 3, page 8]< [https://www.statista.com/statistics/1015131/impact-of-social-media-on-daily-life-worldwide/] </p>
 
-<h1> Global impact of social media on daily life 2019 </h1>
+
 
 
 <h1> Most popular social networks worldwide as of January 2020, ranked by number of active users </h1>
